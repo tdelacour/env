@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/thomasdelacour/Development/segovia/CallCenter/java/cbsconnect/build'
+let g:netrw_dirhist_6='/Users/thomasdelacour/Development/segovia/terraform-configs/modules/payment-gateway'
+let g:netrw_dirhist_5='/Users/thomasdelacour/Development/segovia/terraform-configs/ansible/roles/payment/tasks'
+let g:netrw_dirhist_4='/Users/thomasdelacour/Development/segovia/CallCenter/devops/scripts/finance/finance/transfer'
+let g:netrw_dirhist_3='/Users/thomasdelacour/Development/segovia/CallCenter/java/cbsconnect/docker'
+let g:netrw_dirhist_2='/Users/thomasdelacour/Development/segovia/terraform-configs/ansible/docker/roles/ci-env'
+let g:netrw_dirhist_1='/Users/thomasdelacour/Development/segovia/terraform-configs/modules/cbsconnect/templates'
+let g:netrw_dirhist_0='/Users/thomasdelacour/Oracle/network'
+let g:netrw_dirhist_9='/Users/thomasdelacour/Oracle/network/admin'
+let g:netrw_dirhist_8='/Users/thomasdelacour/Development/segovia/terraform-configs/ansible/roles/devops/files/bkut6'
